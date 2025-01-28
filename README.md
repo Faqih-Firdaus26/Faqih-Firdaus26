@@ -1,6 +1,6 @@
 <p align="center"><picture align="center"><img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture></p>
 <h1 align="center">Hi 👋, I'm Muhammad Faqih Al Firdaus</h1>
-<h3 align="center">Passionate Electrical Engineering Student | Frontend Web Developer | Backend Web Developer | Fullstack Web Developer | IoT Enthusiast</h3>
+<h3 align="center">Passionate Electrical Engineering Student | Web Developer | IoT Enthusiast</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Faqih-Firdaus26&label=Profile%20views&color=0e75b6&style=flat" alt="faqih-firdaus26" /> </p>
 
 <table align="center">
@@ -10,7 +10,7 @@
 - 🌱 I’m currently exploring **IoT and AI technologies**
 - 👨‍🎓 I’m a student at **Universitas Singaperbangsa Karawang**
 
-- 💬 Ask me about **Frontend Web Development | Backend Web Development| Fullstack Web Developer | IoT**
+- 💬 Ask me about **Frontend Web Development | Backend Web Development | Fullstack Web Development**
 
 - 📫 How to reach me: **firdausfaqih727@gmail.com**
 
@@ -29,21 +29,12 @@
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Faqih-Firdaus26&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Faqih-Firdaus26&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="faqih-stats" />
   <br></br>
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Faqih streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Faqih-Firdaus26&theme=dark&hide_border=false" />
-</td>
-<td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Faqih-Firdaus26&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-</td>
-</tr>
-</table>
+  <br></br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faqih-Firdaus26&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+</p>
 
 ---
 
@@ -69,5 +60,3 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/>
 </p>
-
----
